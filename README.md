@@ -11,7 +11,7 @@ Provided on Heroku, since it is the free version, the loading times may be longe
 
 Screenshot: 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/manher1992/prophet_board/blob/master/Unbenannt.PNG)
 
 
 
