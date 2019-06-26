@@ -1,4 +1,6 @@
-# prophet_board
+# Prophet_board
+v1.0
+For the next Version: Metrics are still added, the Axis will be labeled correctly
 
 Dashboard for my Masterthesis : 'Deep Learning for Financial Time Series Forecasting'
 
