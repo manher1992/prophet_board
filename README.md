@@ -1,4 +1,4 @@
-# Prophet_board
+# Prophet_Board
 v1.0
 For the next Version: Metrics are still added, the Axis will be labeled correctly
 
